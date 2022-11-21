@@ -1,2 +1,3 @@
-# The-game
-Voici un mini jeu avec la crew de 42
+# Mes configurations de vim  
+
+Rien a dire de plus
