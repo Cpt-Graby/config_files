@@ -7,17 +7,17 @@ nnoremap <C-l> <C-w>l
 
 set cursorline
 set colorcolumn=80
-set syntax=on
-set autoindent      " Auto-indentation des nouvelles lignes
+syntax on
+set autoindent " Auto-indentation des nouvelles lignes
 set tabstop=4 
 set softtabstop=4
-set shiftwidth=4	" Set tab width to 4 columns.
-set showmatch		" Show matching words during a search.
-set hlsearch		" Use highlighting when doing a search.
-set incsearch		" While searching though a file incrementally highlight matching characters as you type.
-set showcmd			" Show partial command you type in the last line of the screen.
-set showmode		" Show the mode you are on the last line.
-set	nu				" Show the number of line
+set shiftwidth=4 " Set tab width to 4 columns.
+set showmatch " Show matching words during a search.
+set hlsearch  " Use highlighting when doing a search.
+set incsearch " While searching though a file incrementally highlight matching characters as you type.
+set showcmd " Show partial command you type in the last line of the screen.
+set showmode " Show the mode you are on the last line.
+set	nu	" Show the number of line
 set rnu				
 
 " Vim Plug 
